@@ -1,0 +1,62 @@
+[
+    {
+        "name": "GTA V",
+        "genre": "Aksiyon",
+        "game_path": "C:\\Games\\GTA V\\GTA5.exe",
+        "cover_path": "covers\\gtav.jpg"
+    },
+    {
+        "name": "Counter-Strike 2",
+        "genre": "FPS",
+        "game_path": "C:\\Games\\CS2\\cs2.exe",
+        "cover_path": "covers\\cs2.jpg"
+    },
+    {
+        "name": "Fornite",
+        "genre": "FPS",
+        "game_path": "C:/Program Files/Bat To Exe Converter/unins000.exe",
+        "cover_path": "D:/arge/oyun_arsivi/covers/fornite.jpg"
+    },
+    {
+        "name": "League Of Legends",
+        "genre": "Moba",
+        "game_path": "C:/server_monitor/MonitorTray.exe",
+        "cover_path": "D:/arge/oyun_arsivi/covers/lol.jpg"
+    },
+    {
+        "name": "Valorant",
+        "genre": "FPS",
+        "game_path": "C:/server_monitor/MonitorTray.exe",
+        "cover_path": "D:/arge/oyun_arsivi/covers/valorant.jpg"
+    },
+    {
+        "name": "GTA V",
+        "genre": "Aksiyon",
+        "game_path": "C:\\Games\\GTA V\\GTA5.exe",
+        "cover_path": "covers\\gtav.jpg"
+    },
+    {
+        "name": "Counter-Strike 2",
+        "genre": "FPS",
+        "game_path": "C:\\Games\\CS2\\cs2.exe",
+        "cover_path": "covers\\cs2.jpg"
+    },
+    {
+        "name": "Fornite",
+        "genre": "FPS",
+        "game_path": "C:/Program Files/Bat To Exe Converter/unins000.exe",
+        "cover_path": "D:/arge/oyun_arsivi/covers/fornite.jpg"
+    },
+    {
+        "name": "League Of Legends",
+        "genre": "Moba",
+        "game_path": "C:/server_monitor/MonitorTray.exe",
+        "cover_path": "D:/arge/oyun_arsivi/covers/lol.jpg"
+    },
+    {
+        "name": "Valorant",
+        "genre": "FPS",
+        "game_path": "C:/server_monitor/MonitorTray.exe",
+        "cover_path": "D:/arge/oyun_arsivi/covers/valorant.jpg"
+    }	
+]
